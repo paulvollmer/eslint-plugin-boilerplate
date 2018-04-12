@@ -1,6 +1,6 @@
 # eslint-plugin-boilerplate [![Build Status](https://travis-ci.org/paulvollmer/eslint-plugin-boilerplate.svg?branch=master)](https://travis-ci.org/paulvollmer/eslint-plugin-boilerplate)
 
-Basic example, compatible with ESLint 2.x and 3.x.
+Basic example, compatible with ESLint 2.x, 3.x, and 4.x.
 
 ## Usage
 - Clone this repo
